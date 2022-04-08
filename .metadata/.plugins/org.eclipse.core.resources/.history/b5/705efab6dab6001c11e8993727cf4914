@@ -1,0 +1,10 @@
+package pa1_menu;
+
+public class pa1_menu {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
